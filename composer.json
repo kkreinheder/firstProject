@@ -1,0 +1,14 @@
+{
+    "name": "kyle/first-project",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Kyle Kreinheder",
+            "email": "kk566@njit.edu"
+        }
+    ],
+    "require": {}
+}
